@@ -15,8 +15,8 @@
 
 GoldenSolutions aims to connect seniors in need of help with various requests with local volunteers who are willing and able to lend their time and skills. This app was created using PostgreSQL for Database Mangement, Express on the backend, React on the front end, and Firebase for GoogleAuth.
 
-- [Netlify Deployment for front-end](https://https://goldensolutionsproject.netlify.app/)
-- [Render Deployment for back-end](https://https://goldensolutionsowncopy.onrender.com/)
+- [Netlify Deployment for front-end](https://goldensolutionsproject.netlify.app/)
+- [Render Deployment for back-end](https://goldensolutionsowncopy.onrender.com/)
 
 ## TECHNOLOGIES
 
